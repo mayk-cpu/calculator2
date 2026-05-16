@@ -1,4 +1,4 @@
-<script>
+
             let clickSound = new Audio("click.mp3");
             function toggleTheme() {
                 document.body.classList.toggle("dark");
@@ -126,4 +126,3 @@
                 display.value = Number(display.value) * -1;
             }
         }
-            </script>
