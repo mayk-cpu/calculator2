@@ -126,3 +126,7 @@
                 display.value = Number(display.value) * -1;
             }
         }
+if ("serviceWorker" in navigator){
+            navigator.serviceWorker.register("service-worker.js")
+            .then(() => console.log("Service Worker registered"));
+}
