@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "name": "Калькулятор",
     "short_name": "Calculator",
@@ -14,3 +15,21 @@
     }
 ]
 }
+=======
+{
+    "name": "Калькулятор",
+    "short_name": "Calculator",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#1e1e1e",
+    "theme_color": "#1e1e1e",
+    "icons": [ 
+        { 
+            "src": "favicon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+
+    }
+]
+}
+>>>>>>> eaf25f68fd159a6c13cfc392f3f7279577787f76
