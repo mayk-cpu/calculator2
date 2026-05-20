@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
             let clickSound = new Audio("click.mp3");
             function toggleTheme() {
@@ -131,7 +130,6 @@
             navigator.serviceWorker.register("service-worker.js")
             .then(() => console.log("Service Worker registered"));
         }
-=======
 
             let clickSound = new Audio("click.mp3");
             function toggleTheme() {
@@ -264,4 +262,3 @@ if ("serviceWorker" in navigator){
             navigator.serviceWorker.register("service-worker.js")
             .then(() => console.log("Service Worker registered"));
 }
->>>>>>> eaf25f68fd159a6c13cfc392f3f7279577787f76
