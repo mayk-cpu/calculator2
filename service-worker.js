@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const { cache } = require("react");
 
 const CACHE_NAME = "calculator-v1";
@@ -29,7 +28,7 @@ event.responWith(
     })
 );
 });
-=======
+
 const { cache } = require("react");
 
 const CACHE_NAME = "calculator-v1";
@@ -60,4 +59,3 @@ event.responWith(
     })
 );
 });
->>>>>>> eaf25f68fd159a6c13cfc392f3f7279577787f76
